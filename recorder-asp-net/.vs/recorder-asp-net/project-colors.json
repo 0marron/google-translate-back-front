@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d0c2f43a-8e0a-45d5-bb70-727dd56b2b6a": {
+      "ProjectGuid": "d0c2f43a-8e0a-45d5-bb70-727dd56b2b6a",
+      "DisplayName": "recorder-asp-net",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

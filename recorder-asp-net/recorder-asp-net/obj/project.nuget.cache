@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "g83fDT6gmuH6poOoiEBZo9BTB0IKWsymFagAu1vYdPOGRRWWJfH/GIFeeo7aL3YbyMLNX7bOp60568PLGtMAQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AN21\\Desktop\\Projects\\recorder-asp-net\\recorder-asp-net\\recorder-asp-net.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AN21\\.nuget\\packages\\google.api.commonprotos\\2.3.0\\google.api.commonprotos.2.3.0.nupkg.sha512",
+    "C:\\Users\\AN21\\.nuget\\packages\\google.api.gax\\3.5.0\\google.api.gax.3.5.0.nupkg.sha512",
+    "C:\\Users\\AN21\\.nuget\\packages\\google.api.gax.grpc\\3.5.0\\google.api.gax.grpc.3.5.0.nupkg.sha512",
+    "C:\\Users\\AN21\\.nuget\\packages\\google.api.gax.grpc.grpccore\\3.5.0\\google.api.gax.grpc.grpccore.3.5.0.nupkg.sha512",
+    "C:\\Users\\AN21\\.nuget\\packages\\google.apis\\1.53.0\\google.apis.1.53.0.nupkg.sha512",
+    "C:\\Users\\AN21\\.nuget\\packages\\google.apis.auth\\1.53.0\\google.apis.auth.1.53.0.nupkg.sha512",
+    "C:\\Users\\AN21\\.nuget\\packages\\google.apis.core\\1.53.0\\google.apis.core.1.53.0.nupkg.sha512",
+    "C:\\Users\\AN21\\.nuget\\packages\\google.cloud.speech.v1\\2.7.0\\google.cloud.speech.v1.2.7.0.nupkg.sha512",
+    "C:\\Users\\AN21\\.nuget\\packages\\google.longrunning\\2.3.0\\google.longrunning.2.3.0.nupkg.sha512",
+    "C:\\Users\\AN21\\.nuget\\packages\\google.protobuf\\3.15.8\\google.protobuf.3.15.8.nupkg.sha512",
+    "C:\\Users\\AN21\\.nuget\\packages\\grpc.auth\\2.38.0\\grpc.auth.2.38.0.nupkg.sha512",
+    "C:\\Users\\AN21\\.nuget\\packages\\grpc.core\\2.38.1\\grpc.core.2.38.1.nupkg.sha512",
+    "C:\\Users\\AN21\\.nuget\\packages\\grpc.core.api\\2.38.1\\grpc.core.api.2.38.1.nupkg.sha512",
+    "C:\\Users\\AN21\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "C:\\Users\\AN21\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\AN21\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\AN21\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}
